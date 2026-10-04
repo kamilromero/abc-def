@@ -32,3 +32,4 @@
 - chore: fix a small wording issue
 - docs: fix a small wording issue
 - docs: clarify the setup steps
+- chore: link the usage section
